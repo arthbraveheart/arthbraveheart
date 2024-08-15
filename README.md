@@ -79,6 +79,10 @@ Teamwork
 
 ## Certifications
 [IBM Professional Data Scientist](https://www.credly.com/badges/13574839-031d-4aff-a74c-64e016c2e02f/public_url)
+|
+[C Programing Language](https://www.sololearn.com/certificates/CT-NSWVWKRV)
+|
+[Java Programing Language](https://www.sololearn.com/certificates/CT-HKQYW6PH)
 
 ## Honors-Awards
 Medalha de Prata Olimpíada Brasileira de Física das Escolas Públicas (OBFEP)
